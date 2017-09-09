@@ -1,0 +1,19 @@
+body{
+    background-color:#ffeb99;
+}
+
+
+img{
+	width:100%;
+   border: 5px solid #555;	 
+   padding:1em;
+}
+
+.row div a{
+	color: #555;
+	text-align: center;
+	font-size: 1.5em;
+    
+}
+
+
